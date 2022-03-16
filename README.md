@@ -10,6 +10,8 @@
 I'm a software developer from China. 🎉
 
 - I have lots of work experience in both front end and back end software.
-- I led the developmenet of multiple large scale and complex projects as chief architecture in the past.
+- I led the development of multiple large scale and complex projects as chief architecture in the past.
 - Most of my open source projects are writen in Go. I'm fond of investigating and hacking Go runtime to solve complicated issues.
-- Recently, I'm a partner of a start-up company. My business involves lots of video technologies, including video player, video streaming server, video format and so forth.
+- Right now, I'm a partner of a start-up company. My business involves lots of video technologies, including video player, video streaming server, video format and so forth.
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=huandu)
